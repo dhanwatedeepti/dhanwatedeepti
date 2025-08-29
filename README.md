@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Stats  
 
-![Deepti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeeptiDhanwate&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptiDhanwate&layout=compact&theme=radical)  
+![Deepti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanwatedeepti&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanwatedeeptii&layout=compact&theme=radical)  
 
 ---
 
