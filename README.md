@@ -29,7 +29,7 @@
 ## 🌐 Connect with Me  
 
 📫 Email: **dhanwatedeepti2@gmail.com**  
-🔗 [LinkedIn](your-link-here)  
+🔗 [LinkedIn](https://www.linkedin.com/in/deepti-dhanwate-353507284/)  
 
 ---
 
