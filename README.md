@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (Cybersecurity) student | 💻 Python Developer | 🎨 Frontend Enthusiast  
 🔐 Passionate about building secure, user-friendly web experiences  
-🌱 Currently learning: Web Development, Flask, and Cybersecurity tools  
+🌱 Currently learning: Web Development and Cybersecurity tools  
 
 ---
 
