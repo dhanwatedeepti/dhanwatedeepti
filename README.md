@@ -15,9 +15,34 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Responsive Design](https://img.shields.io/badge/Responsive-FF5722?style=for-the-badge&logo=responsive&logoColor=white)  
 
 **Backend & Tools**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
----
+
+--- 
+
+## 🚀 Projects  
+
+### 🔹 [Chatbot](#)  
+A Python-based chatbot built with **Flask & FastAPI** for customer support and internal helpdesk.  
+**Features:**  
+- Admin login & secure authentication  
+- Intent management (add/update/delete responses)  
+- Database integration to store queries and responses  
+**Tech:** Python, Flask, FastAPI, MongoDB/SQL  
+
+### 🔹 [Imperium Leaderboard](#)  
+A web-based leaderboard system for tracking user performance and rankings.  
+**Features:**  
+- Dynamic leaderboard showing top performers  
+- Integration with Imperium Chatbot user data  
+- Sort, filter, and export functionality  
+**Tech:** Python, Flask, HTML/CSS, JavaScript, MongoDB/SQL  
+
+### 🔹 [Weather Forecast App](#)  
+Flask app that fetches real-time weather data using APIs and displays forecasts by city.  
+**Tech:** Python, Flask, JSON, API Integration  
+
 
 ## 📊 GitHub Stats  
 
